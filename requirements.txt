@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+flask
+flask-cors
+streamlit
+matplotlib
+seaborn
+ucimlrepo
+kagglehub
